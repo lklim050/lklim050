@@ -14,8 +14,11 @@ My flexibilities trait allows me to pick tech stack fast enough that I deployed 
 
 ### 🚀 Featured Projects
 - **[AI-powered Survey Analytics](https://github.com/lklim050/AOInsights):** Full-stack web app leveraging AI to analyze survey responses with dynamic CRUD workflows and real-time state synchronization.
+  - [aoinsights.netlify.app](https://aoinsights.netlify.app)
 - **[Bus Informative App (Bus-Kun)](https://github.com/lklim050/Bus-Kun-API):** Node.js/Python backend service built around asynchronous API fetching, custom error handling, and structured data transformation.
+  - [bus-kun-api.netlify.app](https://bus-kun-api.netlify.app/)
 - **[Crypto Portfolio Tracker (KoinSight)](https://github.com/lklim050/KoinSight-Tracker):** Collaborative full-stack application for live crypto asset evaluation, featuring real-time data integration and robust frontend state management.
+  - [koinsight-tracker.netlify.app](https://koinsight-tracker.netlify.app/)   
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/leng-khoon-lim](https://www.linkedin.com/in/leng-khoon-lim/)
