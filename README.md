@@ -18,4 +18,4 @@ My flexibilities trait allows me to pick tech stack fast enough that I deployed 
 - **[Crypto Portfolio Tracker (KoinSight)](https://github.com/lklim050/KoinSight-Tracker):** Collaborative full-stack application for live crypto asset evaluation, featuring real-time data integration and robust frontend state management.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/leng-khoon-lim]([https://www.linkedin.com](https://www.linkedin.com/in/leng-khoon-lim/)
+- **LinkedIn:** [linkedin.com/in/leng-khoon-lim][https://www.linkedin.com](https://www.linkedin.com/in/leng-khoon-lim/)
