@@ -19,6 +19,7 @@ My flexibilities trait allows me to pick tech stack fast enough that I deployed 
   - [bus-kun-api.netlify.app](https://bus-kun-api.netlify.app/)
 - **[Crypto Portfolio Tracker (KoinSight)](https://github.com/lklim050/KoinSight-Tracker):** Collaborative full-stack application for live crypto asset evaluation, featuring real-time data integration and robust frontend state management.
   - [koinsight-tracker.netlify.app](https://koinsight-tracker.netlify.app/)   
+- **[Invoice Management System](https://github.com/lklim050/invoice-system):** Next JS React built front end with interactive invoice management using mock API (MSW) to mimic backend.
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/leng-khoon-lim](https://www.linkedin.com/in/leng-khoon-lim/)
